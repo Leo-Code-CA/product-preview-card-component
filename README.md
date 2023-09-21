@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-challenge-solution-using-css-grid-CLOOvwea0F)
-- Live Site URL: [Add live site URL here](https://leo-code-ca.github.io/product-preview-card-component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-challenge-solution-using-css-grid-CLOOvwea0F)
+- Live Site URL: [Live site URL](https://leo-code-ca.github.io/product-preview-card-component/)
 
 ## My process
 
